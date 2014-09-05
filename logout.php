@@ -8,8 +8,7 @@
 
 $config = array();
 $config['db']['host'] = "hp.matrixdevuk.pw";
-$config['db']['user'] = "unacceptablebot";
-$config['db']['pass'] = "paqe7u2yd";
+
 $config['db']['name'] = "teknogeek_cmsauth";
 
 
